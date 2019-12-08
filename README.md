@@ -128,7 +128,7 @@ unitTesting
 
 ในการจะใช้งาน Maven ในการทำโปรเจค maven จะต้องทำการโหลด dependency ดังนั้นเราเลยต้องระบุ Attributes ทั้งสามให้ถูกต้องและครบถ้วน ไม่งั้นโปรเจคอาจจะ build&test ไม่ได้ก็เป็นได้
 
-หลักการทำงานของ pom.xml
+หลักการทำงานของ pom.xml<br>
 ![2](https://miro.medium.com/max/700/1*E5K0nC9PsZo7mqO11zLSDQ.gif)
 
 ### Keyword ที่จำเป็นต้องจำ
