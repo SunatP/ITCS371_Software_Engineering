@@ -148,7 +148,7 @@ unitTesting
 5.  install นำไฟล์ jar ไปเก็บไว้ที่ local maven repository
 6.  deploy คือปล่อยขึ้น server
 
-คำสั่งที่ใช้ประจำ
+คำสั่งที่ใช้ประจำ<br>
 ![3](https://miro.medium.com/max/875/1*_j_tZ7LfAe3mcSZKN_5_WQ.gif)
 
 ### ใช้ maven ทำเทส student 
